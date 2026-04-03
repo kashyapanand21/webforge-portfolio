@@ -35,9 +35,10 @@ export default function AboutCode() {
       <L n={30}>&nbsp;&nbsp;{prop('github')}{pt(': ')}{lnk('github.com/kashyapanand21', 'https://github.com/kashyapanand21')}{pt(',')}</L>
       <L n={31}>&nbsp;&nbsp;{prop('linkedin')}{pt(': ')}{lnk('linkedin.com/in/anand-kashyap-1915ew', 'https://linkedin.com/in/anand-kashyap-1915ew')}{pt(',')}</L>
       <L n={32}>&nbsp;&nbsp;{prop('email')}{pt(': ')}{lnk('kashyapanand2020@gmail.com', 'mailto:kashyapanand2020@gmail.com')}{pt(',')}</L>
-      <L n={33}>{pt('};')}</L>
-      <L n={34} />
-      <L n={35}>{kw('export default ')} {pl('identity')}{pt(';')}<span className="cursor" /></L>
+      <L n={33}>&nbsp;&nbsp;{prop('resume')}{pt(': ')}{lnk('anand_kashyap_resume.pdf', '/webforge-portfolio/resume.pdf')}{pt(',')}</L>
+      <L n={34}>{pt('};')}</L>
+      <L n={35} />
+      <L n={36}>{kw('export default ')} {pl('identity')}{pt(';')}<span className="cursor" /></L>
     </>
   )
 }
