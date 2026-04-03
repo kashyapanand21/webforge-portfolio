@@ -155,13 +155,7 @@ Themes are driven entirely by CSS variables on `[data-theme]`.
 B.Tech CSE '29 · NIT Patna  
 Roll No. 2506050
 
-I'm a second-year CS student interested in ML/AI engineering, competitive programming, and building developer tools. Open to internships and collaborations.
-
-- 🐙 GitHub: [github.com/kashyapanand21](https://github.com/kashyapanand21)
-- 💼 LinkedIn: [linkedin.com/in/anand-kashyap](https://linkedin.com/in/anand-kashyap)
-- 📧 Email: anandkashyap@nitpatna.ac.in
-
----
+I'm a first-year CS student interested in ML/AI engineering, competitive programming, and building developer tools. Open to internships and collaborations.
 
 ## 📄 License
 
